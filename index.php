@@ -30,6 +30,7 @@ echo $globalVar2.'<br>';
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="node_modules/bootswatch/dist/darkly/bootstrap.css">
     <title>Title</title>
 </head>
 <body>
