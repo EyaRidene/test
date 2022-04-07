@@ -7,4 +7,7 @@ function somme (...$args)
         $som+=$values;
     }
     return $som;
+
+
 }
+
